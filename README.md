@@ -1,5 +1,7 @@
 # srrt-template
 
+Snowpack React Typescript TailwindCSS template
+
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
