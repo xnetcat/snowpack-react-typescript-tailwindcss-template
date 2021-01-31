@@ -1,4 +1,4 @@
-# srrt-template
+# snowpack-react-typescript-tailwindcss-template
 
 Snowpack React Typescript TailwindCSS template
 
