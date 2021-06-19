@@ -1,20 +1,20 @@
 {
-  "name": "srrt-boilerplate",
+  "name": "snowpack-react-typescript-tailwindcss-template",
   "description": "Snowpack React Typescript TailwindCSS template",
   "version": "1.0.0",
   "private": true,
   "main": "src/index.tsx",
   "author": {
     "name": "xnetcat",
-    "email": "j4kub.kko7@gmail.com"
+    "email": "xnetcat.dev@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xnetcat/srrt-boilerplate.git"
+    "url": "git+https://github.com/xnetcat/snowpack-react-typescript-tailwindcss-template.git"
   },
-  "homepage": "https://github.com/xnetcat/srrt-boilerplate#readme",
+  "homepage": "https://github.com/xnetcat/snowpack-react-typescript-tailwindcss-template#readme",
   "bugs": {
-    "url": "https://github.com/xnetcat/srrt-boilerplate/issues"
+    "url": "https://github.com/xnetcat/snowpack-react-typescript-tailwindcss-template/issues"
   },
   "license": "MIT",
   "scripts": {
